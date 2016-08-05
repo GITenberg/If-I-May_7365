@@ -1,0 +1,39 @@
+_repo: If-I-May_7365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The case for the artist -- A London garden -- The game of kings --
+  Fixtures and fittings -- Experts -- The Robinson tradition -- Getting things done
+  -- Christmas games -- The mathematical mind -- Going out to dinner -- The etiquette
+  of escape -- Geographical research -- Children's plays -- The road to knowledge
+  -- A man of property -- An ordnance map -- The Lord Mayor -- The holiday problem
+  -- The Burlington arcade -- State lotteries -- The record lie -- Wedding bells --
+  Public opinion -- The honour of your country -- A village celebration -- A train
+  of thought -- Melodrama -- A lost masterpiece -- A hint for next Christmas -- The
+  future -- The largest circulation -- The Watson touch -- Some old companions --
+  A haunted house -- Round the world and back -- The state of the theatre -- The fires
+  of autumn -- Not guilty -- A digression -- High finance -- Secret papers.
+title: If I May
+url: http://www.gutenberg.org/ebooks/7365
